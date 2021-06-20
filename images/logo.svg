@@ -1,7 +1,8 @@
 <svg width="400" height="50" xmlns="http://www.w3.org/2000/svg" fill="none">
  <g id="Layer_1">
   <title>Layer 1</title>
-  <text filter="url(#svg_1_blur)" opacity="NaN" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="NaN" id="svg_1" y="32" x="53.81818" stroke-width="0" stroke="#000" fill="#ffffff">Surabhi's World</text>
+  <text font-weight="normal" filter="url(#svg_1_blur)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="100" id="svg_1" y="32" x="54" stroke-width="0" stroke="#000" fill="#ffffff">Surabhi's World</text>
+  <text opacity="NaN" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="100" id="svg_2" y="27" x="146.27273" stroke-width="0" stroke="#000" fill="#000000"/>
  </g>
  <defs>
   <filter id="svg_1_blur">
